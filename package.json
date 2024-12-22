@@ -1,0 +1,13 @@
+{
+  "name": "server-skeleton",
+  "version": "1.0.0",
+  "description": "Write one server app, run it on node.js or browser.",
+  "main": "server-skeleton.js",
+  "scripts": {
+    "test:nodejs": "node example.js",
+    "test:browser": "npx http-server -c-1 . -o"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
